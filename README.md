@@ -19,8 +19,8 @@ Telefon, tablet, kulaklık, hoparlör ve daha fazlasını sunan bir elektronik m
 
 
 ## Çalıştırma Adımları
-1- Flutter'ı yükleyin. (https://docs.flutter.dev/get-started/install)
-2- Bu github reposunu klonlayın.
-3- Bağımlılıkları yükleyin. (terminale flutter pub get yazarak)
-4- Android Studio üzerinden API 34+ bir emülatör başlatın.
-5- Uygulamayı çalıştırın (lib klasörü içindeki main.dart dosyasını çalıştırarak veya terminale flutter run yazarak)  
+- Flutter'ı yükleyin. (https://docs.flutter.dev/get-started/install)
+- Bu github reposunu klonlayın.
+- Bağımlılıkları yükleyin. (terminale flutter pub get yazarak)
+- Android Studio üzerinden API 34+ bir emülatör başlatın.
+- Uygulamayı çalıştırın (lib klasörü içindeki main.dart dosyasını çalıştırarak veya terminale flutter run yazarak)  
