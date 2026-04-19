@@ -1,17 +1,26 @@
-# mini_catalog_app
+# TechStore App
 
-A new Flutter project.
+Telefon, tablet, kulaklık, hoparlör ve daha fazlasını sunan bir elektronik mağazasının Flutter ile geliştirilmiş mobil uygulaması.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Fonksiyonlar
 
-A few resources to get you started if this is your first Flutter project:
+- **Ana Menü:** Ürünlerin listelendiği ve sergilendiği ana ekran
+- **Ürün Detay Sayfası:** Seçilen ürünün detaylı bilgilerini gösteren sayfa
+- **Sepet Yönetimi:** Ürünleri sepete ekleme ve sepetten çıkarma
+- **Kart Sayfası:** Sepetteki ürünlerin görüntülendiği ve satın alma işleminin yapıldığı sayfa
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Flutter Sürümü
+- **Flutter 3.41.6**
+
+
+## Çalıştırma Adımları
+1- Flutter'ı yükleyin. (https://docs.flutter.dev/get-started/install)
+2- Bu github reposunu klonlayın.
+3- Bağımlılıkları yükleyin. (terminale flutter pub get yazarak)
+4- Android Studio üzerinden API 34+ bir emülatör başlatın.
+5- Uygulamayı çalıştırın (lib klasörü içindeki main.dart dosyasını çalıştırarak veya terminale flutter run yazarak)  
