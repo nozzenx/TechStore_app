@@ -37,3 +37,10 @@ A Flutter-based mobile application for an electronics store offering phones, tab
 - Install dependencies. (by running flutter pub get in the terminal)
 - Start an API 34+ emulator via Android Studio.
 - Run the app. (by running main.dart inside the lib folder or typing flutter run in the terminal)
+
+## Ekran Görüntüleri / Screenshots
+
+![Ana Menü](screenshots/HomeScreen.png)
+![Ürün Detay](screenshots/ProductDetailScreen.png)
+![Kart Sayfası (Boş)](screenshots/CardScreen_Empty.png)
+![Kart Sayfası (Dolu)](screenshots/CardScreen_Full.png)
